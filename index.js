@@ -13,8 +13,6 @@ btn.addEventListener('click',(e)=>{
         alert("failed");
     }
 })
-function login(){
-    location.assign("index.html")
-}
+
 
 
